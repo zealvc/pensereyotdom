@@ -7,10 +7,6 @@
     z-index: 12
 }
 
-.global-nav--wac.stuck {
-    background-color: rgba(244, 245, 247, .99)
-}
-
 .global-nav--wac__background {
     background-color: #F4F5F7;
     position: relative;
